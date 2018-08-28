@@ -12,11 +12,7 @@ ABET: Math/Science, Engineering Topics.
 
 2-2-3 (class hours/week, laboratory hours/week, credits)
 
-Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science packages: NumPy, Pandas, ScipPy, StatsModels, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch.
-
-Prerequisites: MA-262 Probability and Statistics; programming maturity, and the ability to program in Python.  
-
-ABET: Math/Science, Engineering Topics.
+Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science and machine learning libraries: NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch.
 
 Outcomes:   
 - Understand the concepts of an intelligent agent and their environment.
@@ -152,13 +148,13 @@ Outcomes addressed in week 5:
 #### Lecture:
 1. **Midterm**
 
-2. [Introduction to Machine Learning](slides/IntroMachineLearning.pdf)   
+2. [Introduction to Machine Learning](https://github.com/jayurbain/machine-learning/blob/master/slides/IntroMachineLearning.pdf)   
 ML Demonstrations  
 
 #### Lab Notebooks:   
 - [Jupyter Notebooks](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_jupyter.ipynb)
 - [Python Machine Learning Environment](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/python_programming_style.ipynb)
-- [Clustering](notebooks/Clustering.ipynb)  *Submission required*
+- [Clustering](https://github.com/jayurbain/machine-learning/blob/master/notebooks/Clustering.ipynb)  *Submission required*
 
 Outcomes addressed in week 6:
 - Understand the concepts of an intelligent agent and their environment.
@@ -168,9 +164,9 @@ Outcomes addressed in week 6:
 
 ### Week 7: Linear Regression, Logistic Regression
 
-1. [Linear Regression](slides/LinearRegressionML_Jay.pdf)  
+1. [Linear Regression](https://github.com/jayurbain/machine-learning/blob/master/slides/LinearRegressionML_Jay.pdf)  
 
-2. [Logistic Regression](slides/LogisticRegressionML_Jay.pdf)
+2. [Logistic Regression](https://github.com/jayurbain/machine-learning/blob/master/slides/LogisticRegressionML_Jay.pdf)
 
 #### Lab Notebooks:
 
@@ -215,7 +211,7 @@ Outcomes addressed in week 7:
 
 1. [Deep Learning Introduction 1](https://github.com/jayurbain/machine-learning/blob/master/slides/Deep%20Learning%20Introduction.pdf)
 
-2. [Deep Learning Introduction 2 2](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
+2. [Deep Learning Introduction 2](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
 
 3. [Backpropagation](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   *Optional*
 
