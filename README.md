@@ -39,6 +39,8 @@ https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view
 ### Week 1: Introduction to AI, AI History, Intelligent Agents
 
 #### Lecture:    
+0. [Syllabus](syllabus.pdf)  
+
 1. [Introduction to Artificial Intelligence](slides/m1-intro.pdf)   
 AI Demonstrations    
 Reading: AIMA: Chapter 1   
