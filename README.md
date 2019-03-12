@@ -50,8 +50,10 @@ Reading: AIMA: Chapter 1
 Reading: AIMA: Chapter 2  
 
 #### Lab:
-- [Problem set 1](labs/CS4881-problemset1.pdf)  
-- [Python Programming](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_python.ipynb)  *Submission required*
+- [Juputer Notebook Tutorial](https://github.com/jayurbain/machine-learning/blob/master/notebooks/lab_0_python/lab_0_jupyter.ipynb) *Optional*    
+- [Problem set 1](labs/CS4881-problemset1.pdf) *Submission required*
+  
+- [Python Programming](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_python.ipynb)  *Submission required*  
 
 - Reference: [AI Grand Challenges](http://www.engineeringchallenges.org/challenges.aspx)  
 
