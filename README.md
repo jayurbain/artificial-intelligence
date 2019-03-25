@@ -84,10 +84,11 @@ Outcomes addressed in week 2:
 
 #### Lecture:   
 
-1. [Constraint Satisfaction](slides/m5-csp.pdf)  
+1. [Constraint Satisfaction](slides/berkley/lecture4_CSPs.pdf)  
+<!-- 1. [Constraint Satisfaction](slides/m5-csp.pdf)  -->
 Reading: AIMA Ch. 5  
 
-2. [Online Search](slides/m4.5-onlinesearch.pdf)  
+2. [Online Search](slides/m4.5-onlinesearch.pdf)  **postpone**  
 Reading: AIMA Ch. 4.5  
 
 3. [Game Play, Adversarial Search, Minimax](slides/m6-game.pdf)  
@@ -105,7 +106,7 @@ Outcomes addressed in week 3:
 #### Week 4: Logic and Inference   
 
 #### Lecture:
-
+<!-->
 1. [Logical Agents, Propositional Logic](slides/m7-logic.pdf)  
 Reading: AIMA Ch. 7  
 [New chapter 7](http://jayurbain.com/msoe/cs4881/newchap07.pdf)  
@@ -117,9 +118,9 @@ Reading: AIMA Ch. 8
 3. [First Order Inference](slides/m8-fol.pdf)      
 Reading: AIMA Ch. 9.4    
 [Logical Agents Review Notes](http://jayurbain.com/msoe/cs4881/logicalagentsreviewnotes.pdf)
-
+-->
 #### Lab Notebooks:  
-- [Problem set 3: Logical Agents](labs/CS4881-problemset3.pdf)  *continued*
+- [Problem set 3: Multi-Agent Search]()  
 
 Outcomes addressed in week 4:     
 - Demonstrate an understanding of the principles of formal logic including propositional calculus, and first order logic.  
