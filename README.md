@@ -84,15 +84,8 @@ Outcomes addressed in week 2:
 
 #### Lecture:   
 
-1. [Constraint Satisfaction](slides/berkley/lecture4_CSPs.pdf)  
-<!-- 1. [Constraint Satisfaction](slides/m5-csp.pdf)  -->
-Reading: AIMA Ch. 5  
-
-2. [Online Search](slides/m4.5-onlinesearch.pdf)  **postpone**  
+1. [Online Search](slides/m4.5-onlinesearch.pdf)  **postpone**  
 Reading: AIMA Ch. 4.5  
-
-3. [Game Play, Adversarial Search, Minimax](slides/m6-game.pdf)  
-Reading: AIMA Ch. 6.1-6.3  
 
 #### Lab Notebooks:
 - [Problem set 2: Logical Agents](labs/CS4881-problemset2.pdf)  *continued*
@@ -119,8 +112,19 @@ Reading: AIMA Ch. 8
 Reading: AIMA Ch. 9.4    
 [Logical Agents Review Notes](http://jayurbain.com/msoe/cs4881/logicalagentsreviewnotes.pdf)
 -->
+
+1. [Constraint Satisfaction](slides/berkley/lecture4_CSPs.pdf)  
+<!-- 1. [Constraint Satisfaction](slides/m5-csp.pdf)  -->
+Reading: AIMA Ch. 5  
+
+2. [Game Play, Adversarial Search, Minimax](slides/berkley/m6-game.pdf)  
+Reading: AIMA Ch. 6.1-6.3  
+
+3. [Game Play, Adversarial Search, Minimax]()  
+Reading: AIMA Ch. 6.1-6.3  
+
 #### Lab Notebooks:  
-- [Problem set 3: Multi-Agent Search]()  
+- [Problem set 3: Pacman Multi-Agent](labs/pacman_multi_agent/Multi-Agent-Search.ipynb)  
 
 Outcomes addressed in week 4:     
 - Demonstrate an understanding of the principles of formal logic including propositional calculus, and first order logic.  
