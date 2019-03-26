@@ -124,7 +124,7 @@ Reading: AIMA Ch. 6.1-6.3
 Reading: AIMA Ch. 6.1-6.3  
 
 #### Lab Notebooks:  
-- [Problem set 3: Pacman Multi-Agent](labs/pacman_multi_agent/Multi-Agent-Search.html)  
+- [Problem set 3: Pacman Multi-Agent](labs/pacman_multi_agent/Multi-Agent-Search.ipynb)  
 
 Outcomes addressed in week 4:     
 - Demonstrate an understanding of the principles of formal logic including propositional calculus, and first order logic.  
@@ -145,7 +145,7 @@ Reading: AIMA Ch. 13
 - Reading: AIMA Ch. 14   
 
 #### Lab Notebooks:  
-- [Problem set 3-5: Logical Agents working under uncertainty](labs/CS4881-problemset3-5_uncertainty.pdf)  *continued*     
+- [Problem set 3: Pacman Muilti-Agent](labs/pacman_multi_agent/Multi-Agent-Search.ipynb)  *continued*     
 
 Outcomes addressed in week 5:    
 - Understand the techniques involved with reasoning in the presence of uncertainty.  
