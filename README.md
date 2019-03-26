@@ -99,7 +99,7 @@ Outcomes addressed in week 3:
 #### Week 4: Logic and Inference   
 
 #### Lecture:
-<!-->
+<!--
 1. [Logical Agents, Propositional Logic](slides/m7-logic.pdf)  
 Reading: AIMA Ch. 7  
 [New chapter 7](http://jayurbain.com/msoe/cs4881/newchap07.pdf)  
@@ -120,11 +120,11 @@ Reading: AIMA Ch. 5
 2. [Game Play, Adversarial Search, Minimax](slides/berkley/m6-game.pdf)  
 Reading: AIMA Ch. 6.1-6.3  
 
-3. [Game Play, Adversarial Search, Minimax]()  
+3. [Game Play Uncertainty]()  *not yet posted*   
 Reading: AIMA Ch. 6.1-6.3  
 
 #### Lab Notebooks:  
-- [Problem set 3: Pacman Multi-Agent](labs/pacman_multi_agent/Multi-Agent-Search.ipynb)  
+- [Problem set 3: Pacman Multi-Agent](labs/pacman_multi_agent/Multi-Agent-Search.html)  
 
 Outcomes addressed in week 4:     
 - Demonstrate an understanding of the principles of formal logic including propositional calculus, and first order logic.  
