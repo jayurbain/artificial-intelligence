@@ -120,7 +120,7 @@ Reading: AIMA Ch. 5
 2. [Game Play, Adversarial Search, Minimax](slides/berkley/m6-game.pdf)  
 Reading: AIMA Ch. 6.1-6.3  
 
-3. [Game Play Uncertainty]()  *not yet posted*   
+3. [Game Play Uncertainty, Expectimax](slides/berkley/lecture7_expectimax_search_and_utilities.pdf)    
 Reading: AIMA Ch. 6.1-6.3  
 
 #### Lab Notebooks:  
