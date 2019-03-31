@@ -115,13 +115,13 @@ Reading: AIMA Ch. 9.4
 
 1. [Constraint Satisfaction](slides/berkley/lecture4_CSPs.pdf)  
 <!-- 1. [Constraint Satisfaction](slides/m5-csp.pdf)  -->
-Reading: AIMA Ch. 5  
+Reading: AIMA Ch. 5
 
 2. [Game Play, Adversarial Search, Minimax](slides/berkley/m6-game.pdf)  
-Reading: AIMA Ch. 6.1-6.3  
+Reading: AIMA Ch. 6.1-6.3, Sutton Ch. 3-4  
 
 3. [Game Play Uncertainty, Expectimax](slides/berkley/lecture7_expectimax_search_and_utilities.pdf)    
-Reading: AIMA Ch. 6.1-6.3  
+Reading: AIMA Ch. 6.1-6.3, Sutton Ch. 3-4.
 
 #### Lab Notebooks:  
 - [Problem set 3: Pacman Multi-Agent](labs/pacman_multi_agent/Multi-Agent-Search.ipynb)  
@@ -132,19 +132,30 @@ Outcomes addressed in week 4:
 
 ---
 
-### Week 5: Uncertainty
+### Week 5: Markov Decision Processes
 
 #### Lecture:
 
-1. [Acting under uncertainty, probability, joint distributions](slides/m13-uncertainty.pdf)  
+1. [MDP 1](slides/berkley/lecture8_MDPs_I.pdf)  
+Reading: AIMA Ch. 13-17, Sutton Ch. 3-4   
+
+2. [MDP 2](slides/berkley/lecture8_MDPs_II.pdf)  
+Reading: AIMA Ch. 13-17, Sutton Ch. 3-4   
+
+3. [Midterm Study Guide](cs4881-midterm-studyguide.pdf)
+
+<!-- 
+1. [Acting under uncertainty, probability, joint distributions](slides/berkley/m13-uncertainty.pdf)  
 Reading: AIMA Ch. 13   
 
 2. [Naive Bayes](slides/naievbayesx2.pdf)
 
 3. [Bayesian Networks](slides/m14-bayesian.pdf)  *Optional*
 - Reading: AIMA Ch. 14   
+-->
 
 #### Lab Notebooks:  
+- Midterm review   
 - [Problem set 3: Pacman Muilti-Agent](labs/pacman_multi_agent/Multi-Agent-Search.ipynb)  *continued*     
 
 Outcomes addressed in week 5:    
@@ -152,7 +163,7 @@ Outcomes addressed in week 5:
 
 ---
 
-#### Week 6: Midterm, Introduction to Machine Learning
+#### Week 6: Midterm, Introduction to Machine Learning, Reinforcement Learning
 
 #### Lecture:
 1. **Midterm**
