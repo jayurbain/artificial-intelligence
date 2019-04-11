@@ -168,7 +168,7 @@ Outcomes addressed in week 5:
 #### Lecture:
 1. **Midterm**
 
-2. [Reinforcement Learning I](berkley/lecture10_reinforcement_learning_I.pdf) 
+2. [Reinforcement Learning I](slides/berkley/lecture10_reinforcement_learning_I.pdf) 
 
 #### Lab Notebooks:  
 - [Problem set 4: Reinforcement Learning](labs/reinforcement_learning/reinforcement-learning.ipynb) 
