@@ -168,13 +168,10 @@ Outcomes addressed in week 5:
 #### Lecture:
 1. **Midterm**
 
-2. [Introduction to Machine Learning](https://github.com/jayurbain/machine-learning/blob/master/slides/IntroMachineLearning.pdf)   
-ML Demonstrations  
+2. [Reinforcement Learning I](berkleylecture10_reinforcement_learning_I.pdf) 
 
-#### Lab Notebooks:   
-- [Jupyter Notebooks](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_jupyter.ipynb)
-- [Python Machine Learning Environment](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/python_programming_style.ipynb)
-- [Clustering](https://github.com/jayurbain/machine-learning/blob/master/notebooks/Clustering.ipynb)  *Submission required*
+#### Lab Notebooks:  
+- [Problem set 4: Reinforcement Learning](labs/reinforcement_learning/reinforcement-learning.ipynb) 
 
 Outcomes addressed in week 6:
 - Understand the concepts of an intelligent agent and their environment.
@@ -184,12 +181,21 @@ Outcomes addressed in week 6:
 
 ### Week 7: Linear Regression, Logistic Regression
 
-1. [Linear Regression](https://github.com/jayurbain/machine-learning/blob/master/slides/LinearRegressionML_Jay.pdf)  
+1. [Reinforcement Learning II]) 
 
-2. [Logistic Regression](https://github.com/jayurbain/machine-learning/blob/master/slides/LogisticRegressionML_Jay.pdf)
+2. [Introduction to Machine Learning](https://github.com/jayurbain/machine-learning/blob/master/slides/IntroMachineLearning.pdf)   
+ML Demonstrations  
+
+3. [Linear Regression](https://github.com/jayurbain/machine-learning/blob/master/slides/LinearRegressionML_Jay.pdf)  
+
+4. [Logistic Regression](https://github.com/jayurbain/machine-learning/blob/master/slides/LogisticRegressionML_Jay.pdf)
 
 #### Lab Notebooks:
-
+<!--  
+- [Jupyter Notebooks](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_jupyter.ipynb)
+- [Python Machine Learning Environment](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/python_programming_style.ipynb)
+- [Clustering](https://github.com/jayurbain/machine-learning/blob/master/notebooks/Clustering.ipynb)  *Submission required*
+-->
 - [Supervised Learning - Linear Regression](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/Lab3_LinearRegression/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)   *Submission required 2-weeks*   
 - [Supervised Learning - Logistic Regression](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/Lab5_Logistic_Regression/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)  *Submission required 2-weeks*   
 
