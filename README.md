@@ -181,7 +181,7 @@ Outcomes addressed in week 6:
 
 ### Week 7: Reinforcement Learning, Value Functions, Intro to Machine Learning
 
-1. [Reinforcement Learning II](slides/berkley/lecture10_reinforcement_learning_II.pdf) 
+1. [Reinforcement Learning II](slides/berkley/lecture11_reinforcement_learning_II.pdf) 
 
 2. [Introduction to Machine Learning with KNN](https://github.com/jayurbain/machine-learning/blob/master/slides/06_machine_learning_knn.pdf)  *review on your own *
 - Reading: ISLR Ch. 4.6.5  
@@ -197,7 +197,7 @@ Outcomes addressed in week 6:
 - [Clustering](https://github.com/jayurbain/machine-learning/blob/master/notebooks/Clustering.ipynb)  *Submission required*
 -->
 - Problem set 4: Reinforcement Learning continued   
-- [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Tutorial: Submission required*   
+- [Linear Regression Notebook](https://github.com/jayurbain/machine-learning/blob/master/notebooks/08_linear_regression.ipynb) *Tutorial: Submission required*   
 
 References:
 - [Reinforcement Learning extra slides](slides/reinforcementlearning.pdf)   
@@ -216,13 +216,13 @@ Outcomes addressed in week 7:
 #### Week 8: Macine Learning - Linear regression and logistic regression     
 
 #### Lecture: 
-1. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+1. [Logistic Regression Classification](https://github.com/jayurbain/machine-learning/blob/master/slides/09_logistic_regression_classification.pdf)  
 - Reading: ISLR Ch. 4  
 
 #### Lab Notebooks:  
-- [Multinomial Image Classification](notebooks/multinomial_classification.ipynb) *submission required*     
+- [Multinomial Image Classification](https://github.com/jayurbain/machine-learning/blob/master/notebooks/multinomial_classification.ipynb) *submission required*     
 -- If you're having trouble reading MNIST from mldata use the following notebook to load the data:  
--- [Write Read MNIST](notebooks/write_read_MNIST.ipynb)   
+-- [Write Read MNIST](https://github.com/jayurbain/machine-learning/blob/master/notebooks/write_read_MNIST.ipynb)   
 -- [mnist_data.csv](https://drive.google.com/open?id=1p-K8JpCEiATE7VrBNsfruYtn4ivorceW)  
 -- [mnist_target.csv](https://drive.google.com/open?id=1TnARZEzS0CPhco_MxpkVbf31zYqkuFbL) 
 <!--
