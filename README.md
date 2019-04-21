@@ -163,7 +163,7 @@ Outcomes addressed in week 5:
 
 ---
 
-#### Week 6: Midterm, Introduction to Machine Learning, Reinforcement Learning
+#### Week 6: Midterm, Introduction to Reinforcement Learning
 
 #### Lecture:
 1. **Midterm**
@@ -179,16 +179,16 @@ Outcomes addressed in week 6:
 
 ---
 
-### Week 7: Linear Regression, Logistic Regression
+### Week 7: Reinforcement Learning, Value Functions, Intro to Machine Learning
 
-1. [Reinforcement Learning II]) 
+1. [Reinforcement Learning II](slides/berkley/lecture10_reinforcement_learning_II.pdf) 
 
-2. [Introduction to Machine Learning](https://github.com/jayurbain/machine-learning/blob/master/slides/IntroMachineLearning.pdf)   
-ML Demonstrations  
+2. [Introduction to Machine Learning with KNN](https://github.com/jayurbain/machine-learning/blob/master/slides/06_machine_learning_knn.pdf)  *review on your own *
+- Reading: ISLR Ch. 4.6.5  
 
-3. [Linear Regression](https://github.com/jayurbain/machine-learning/blob/master/slides/LinearRegressionML_Jay.pdf)  
-
-4. [Logistic Regression](https://github.com/jayurbain/machine-learning/blob/master/slides/LogisticRegressionML_Jay.pdf)
+3. [Linear Regression 1](https://github.com/jayurbain/machine-learning/blob/master/slides/08_linear_regression.pdf)
+- Reading: PDSH Ch. 5 p. 331-375, 390-399  
+- Reading: ISLR Ch. 1, 2 
 
 #### Lab Notebooks:
 <!--  
@@ -196,34 +196,40 @@ ML Demonstrations
 - [Python Machine Learning Environment](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/python_programming_style.ipynb)
 - [Clustering](https://github.com/jayurbain/machine-learning/blob/master/notebooks/Clustering.ipynb)  *Submission required*
 -->
+- Problem set 4: Reinforcement Learning continued   
+- [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Tutorial: Submission required*   
+
+References:
+- [Reinforcement Learning extra slides](slides/reinforcementlearning.pdf)   
+- [Q Learning Spreadsheet](http://jayurbain.com/msoe/cs4881/RL.xls) 
+
+<!--
 - [Supervised Learning - Linear Regression](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/Lab3_LinearRegression/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)   *Submission required 2-weeks*   
 - [Supervised Learning - Logistic Regression](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/Lab5_Logistic_Regression/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)  *Submission required 2-weeks*   
+-->
 
-*Note: need to reduce quantity of work in this week*  
-
-Outcomes addressed in week 1:    
+Outcomes addressed in week 7:    
 - Understand and apply modern machine learning techniques for supervised, unsupervised, and reinforcement learning.   
 
 ---
 
-#### Week 8: Reinforcement Learning  
+#### Week 8: Macine Learning - Linear regression and logistic regression     
 
-#### Lecture:
-
-1. [Reinforcement Learning 1](slides/rl_intro.pdf)   
-Reading: Reinforcement Learning: An Introduction (RL) - Ch. 1   
-
-2. [Reinforcement Learning 2](slides/rl_intro_2.pdf)  
-Reading: Reinforcement Learning: An Introduction (RL) - Ch. 2  
+#### Lecture: 
+1. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+- Reading: ISLR Ch. 4  
 
 #### Lab Notebooks:  
-- Complete the [OpenAI Gym Tutorial](https://gym.openai.com/docs)  *Submission required*
+- [Multinomial Image Classification](notebooks/multinomial_classification.ipynb) *submission required*     
+-- If you're having trouble reading MNIST from mldata use the following notebook to load the data:  
+-- [Write Read MNIST](notebooks/write_read_MNIST.ipynb)   
+-- [mnist_data.csv](https://drive.google.com/open?id=1p-K8JpCEiATE7VrBNsfruYtn4ivorceW)  
+-- [mnist_target.csv](https://drive.google.com/open?id=1TnARZEzS0CPhco_MxpkVbf31zYqkuFbL) 
+<!--
+- [Image Classification](https://github.com/jayurbain/machine-learning/blob/master/notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*   
+-->
 
-References:
-- [Reinforcement Learning extra slides](slides/reinforcementlearning.pdf)   
-- [Q Learning Spreadsheet](http://jayurbain.com/msoe/cs4881/RL.xls)  
-
-Outcomes addressed in week 7:
+Outcomes addressed in week 8:
 - Understand the concepts of an intelligent agent and their environment.
 - Be able to address problems related to search, and its application to intelligent systems, including: game playing, decision making, and adversarial search.  
 - Understand the techniques involved with reasoning in the presence of uncertainty.  
@@ -231,7 +237,7 @@ Outcomes addressed in week 7:
 
 ---
 
-#### Week 8: Deep Learning  
+#### Week 9: Deep Learning  
 
 #### Lecture:
 
@@ -245,7 +251,6 @@ Outcomes addressed in week 7:
 
 #### Lab Notebooks:  
 - [Keras Intro](https://github.com/jayurbain/machine-learning/blob/master/notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
-- [Image Classification](https://github.com/jayurbain/machine-learning/blob/master/notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*   
 
 Outcomes addressed in week 8:
 - Understand the concepts of an intelligent agent and their environment.
@@ -253,7 +258,7 @@ Outcomes addressed in week 8:
 - Understand the techniques involved with reasoning in the presence of uncertainty.  
 - Understand and apply modern machine learning techniques for supervised, unsupervised, and reinforcement learning.       
 
-#### Week 9: Deep Reinforcement Learning
+#### Week 10: Deep Reinforcement Learning
 
 #### Lecture:
 
@@ -264,6 +269,7 @@ Outcomes addressed in week 8:
 3. [Deep Reinforcement Learning](slides/RL_deep.pdf)  
 
 #### Lab Notebooks:
+- Complete the [OpenAI Gym Tutorial](https://gym.openai.com/docs)  *Submission required*
 - [Deep Q Learning](labs/Deep_Reinforcement_Learning/DQN.ipynb) *Submission required*
 
 Outcomes addressed in week 9:
@@ -274,7 +280,7 @@ Outcomes addressed in week 9:
 
 ---
 
-#### Week 10: Deep Learning for NLP
+#### Optional material: Deep Learning for NLP
 
 #### Lecture:
 
@@ -299,3 +305,7 @@ Outcomes addressed in week 10:
 - Understand and apply modern machine learning techniques for supervised, unsupervised, and reinforcement learning.    
 
 ---
+
+#### Week 11: Final Exam
+
+Wednesday 11:00 AM - 1:00 PM S243
