@@ -229,6 +229,13 @@ Outcomes addressed in week 7:
 - [Image Classification](https://github.com/jayurbain/machine-learning/blob/master/notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*   
 -->
 
+Complete the following Get Started with TensorFlow tutorials. *Optional, but recommended*   
+
+https://www.tensorflow.org/tutorials/  Train your first neural network: basic classification  
+https://www.tensorflow.org/tutorials/keras/basic_classification  Explore overfitting and underfitting  
+https://www.tensorflow.org/tutorials/keras/overfit_and_underfit  
+
+
 Outcomes addressed in week 8:
 - Understand the concepts of an intelligent agent and their environment.
 - Be able to address problems related to search, and its application to intelligent systems, including: game playing, decision making, and adversarial search.  
