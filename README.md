@@ -179,7 +179,7 @@ Outcomes addressed in week 6:
 
 ---
 
-### Week 7: Reinforcement Learning, Value Functions, Intro to Machine Learning
+### Week 7: Reinforcement Learning, Value Functions, Intro to Machine Learning, Supervised Learning
 
 1. [Reinforcement Learning II](slides/berkley/lecture11_reinforcement_learning_II.pdf) 
 
@@ -189,6 +189,9 @@ Outcomes addressed in week 6:
 3. [Linear Regression 1](https://github.com/jayurbain/machine-learning/blob/master/slides/08_linear_regression.pdf)
 - Reading: PDSH Ch. 5 p. 331-375, 390-399  
 - Reading: ISLR Ch. 1, 2 
+
+4. [Logistic Regression Classification](https://github.com/jayurbain/machine-learning/blob/master/slides/09_logistic_regression_classification.pdf)  
+- Reading: ISLR Ch. 4  
 
 #### Lab Notebooks:
 <!--  
@@ -200,6 +203,8 @@ Outcomes addressed in week 6:
 - [Linear Regression Notebook](https://github.com/jayurbain/machine-learning/blob/master/notebooks/08_linear_regression.ipynb) *Tutorial: Submission required*   
 
 References:
+- [Gradient Descent](slides/LogisticRegressionML_Jay.pdf)   
+- [Gradient Descent notebook](notebooks/GradientDescent.ipynb)  
 - [Reinforcement Learning extra slides](slides/reinforcementlearning.pdf)   
 - [Q Learning Spreadsheet](http://jayurbain.com/msoe/cs4881/RL.xls) 
 
@@ -213,11 +218,17 @@ Outcomes addressed in week 7:
 
 ---
 
-#### Week 8: Macine Learning - Linear regression and logistic regression     
+#### Week 8: Macine Learning - Deep Learning   
 
 #### Lecture: 
-1. [Logistic Regression Classification](https://github.com/jayurbain/machine-learning/blob/master/slides/09_logistic_regression_classification.pdf)  
-- Reading: ISLR Ch. 4  
+1. [Deep Learning Introduction 1](slides/Deep&#32;Learning&#32;Introduction.pdf)  
+Reference for earlier in class:    
+
+2. [Deep Learning Introduction 2](slides/Deep&#32;Learning&#32;Introduction.pdf) *Optional*   
+
+3. [Backpropagation](slides/backpropagation.pdf) *Optional*       
+
+[YouTube: Deep Learning Revolution](https://www.youtube.com/watch?v=Dy0hJWltsyE)
 
 #### Lab Notebooks:  
 - [Multinomial Image Classification](https://github.com/jayurbain/machine-learning/blob/master/notebooks/multinomial_classification.ipynb) *submission required*     
@@ -235,7 +246,6 @@ https://www.tensorflow.org/tutorials/  Train your first neural network: basic cl
 https://www.tensorflow.org/tutorials/keras/basic_classification  Explore overfitting and underfitting  
 https://www.tensorflow.org/tutorials/keras/overfit_and_underfit  
 
-
 Outcomes addressed in week 8:
 - Understand the concepts of an intelligent agent and their environment.
 - Be able to address problems related to search, and its application to intelligent systems, including: game playing, decision making, and adversarial search.  
@@ -244,31 +254,37 @@ Outcomes addressed in week 8:
 
 ---
 
-#### Week 9: Deep Learning  
+#### Week 9: Convnets, Deep RL  
 
 #### Lecture:
 
-1. [Deep Learning Introduction 1](https://github.com/jayurbain/machine-learning/blob/master/slides/Deep%20Learning%20Introduction.pdf)
+1. [Convolutional Neural Networks 1](https://github.com/jayurbain/machine-learning/blob/master/slides/cnn_1.pdf)  
 
-2. [Deep Learning Introduction 2](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
+2. [Visualizing what ConvNets Learn](https://github.com/jayurbain/machine-learning/blob/master/notebooks/dlp/visualizing-what-convnets-learn.ipynb)  
 
-3. [Backpropagation](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   *Optional*
+3. [Deep Q-Learning]() *available Thursday*   
 
-[YouTube: Deep Learning Revolution](https://www.youtube.com/watch?v=Dy0hJWltsyE)
+
+Reading:  
+- DLP Ch. 5 
 
 #### Lab Notebooks:  
+- [RL with OpenAI Gym](deep_rl/reinforcement-learning-with-openai-gym.ipynb)  *Submission required*
+- Complete the [OpenAI Gym Tutorial](https://gym.openai.com/docs)  *Optional*
 - [Keras Intro](https://github.com/jayurbain/machine-learning/blob/master/notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
+- [Deep Q-Learning with OpenAI Gym]()  *Submission required - available Thursday*
 
-Outcomes addressed in week 8:
+Outcomes addressed in week 9:
 - Understand the concepts of an intelligent agent and their environment.
 - Be able to address problems related to search, and its application to intelligent systems, including: game playing, decision making, and adversarial search.  
 - Understand the techniques involved with reasoning in the presence of uncertainty.  
 - Understand and apply modern machine learning techniques for supervised, unsupervised, and reinforcement learning.       
 
-#### Week 10: Deep Reinforcement Learning
+#### Week 10: Advanced Topics
 
 #### Lecture:
 
+<!--
 1. [Deep Learning for Computer Vision](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-3-1-convnets-history-urbain.pdf)   
 
 2. [Convnets](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-3-2-convnets-intro-urbain.pdf)  *optional*
@@ -276,10 +292,10 @@ Outcomes addressed in week 8:
 3. [Deep Reinforcement Learning](slides/RL_deep.pdf)  
 
 #### Lab Notebooks:
-- Complete the [OpenAI Gym Tutorial](https://gym.openai.com/docs)  *Submission required*
-- [Deep Q Learning](labs/Deep_Reinforcement_Learning/DQN.ipynb) *Submission required*
 
-Outcomes addressed in week 9:
+- [Deep Q Learning](labs/Deep_Reinforcement_Learning/DQN.ipynb) *Submission required*
+-->
+Outcomes addressed in week 10:
 - Understand the concepts of an intelligent agent and their environment.
 - Be able to address problems related to search, and its application to intelligent systems, including: game playing, decision making, and adversarial search.  
 - Understand the techniques involved with reasoning in the presence of uncertainty.  
