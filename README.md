@@ -258,7 +258,7 @@ Outcomes addressed in week 8:
 
 #### Lecture:
 
-1. [Convolutional Neural Networks 1](https://github.com/jayurbain/machine-learning/blob/master/slides/cnn_1.pdf)  
+1. [Convolutional Neural Networks](https://github.com/jayurbain/machine-learning/blob/master/slides/cnn_1.pdf)  
 
 2. [Visualizing what ConvNets Learn](http://localhost:8888/notebooks/machine-learning/machine-learning/notebooks/dlp/visualizing-what-convnets-learn.ipynb)  
 
