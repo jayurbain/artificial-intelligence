@@ -269,7 +269,7 @@ Reading:
 - DLP Ch. 5 
 
 #### Lab Notebooks:  
-- [RL with OpenAI Gym](deep_rl/reinforcement-learning-with-openai-gym.ipynb)  *Submission required.*  
+- [RL with OpenAI Gym](deep_rl/reinforcement-learning-with-openai-gym.ipynb)  *Submission required.*   
 *Use the following link https://github.com/jayurbain/artificial-intelligence/blob/master/deep_rl/reinforcement-learning-with-openai-gym.ipynb on Google Collab https://colab.research.google.com/notebooks/welcome.ipynb.*   
 - Complete the [OpenAI Gym Tutorial](https://gym.openai.com/docs)  *Optional*
 - [Keras Intro](https://github.com/jayurbain/machine-learning/blob/master/notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
