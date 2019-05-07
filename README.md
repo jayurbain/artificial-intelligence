@@ -260,7 +260,7 @@ Outcomes addressed in week 8:
 
 1. [Convolutional Neural Networks 1](https://github.com/jayurbain/machine-learning/blob/master/slides/cnn_1.pdf)  
 
-2. [Visualizing what ConvNets Learn](https://github.com/jayurbain/machine-learning/blob/master/notebooks/dlp/visualizing-what-convnets-learn.ipynb)  
+2. [Visualizing what ConvNets Learn](http://localhost:8888/notebooks/machine-learning/machine-learning/notebooks/dlp/visualizing-what-convnets-learn.ipynb)  
 
 3. [Deep Q-Learning]() *available Thursday*   
 
