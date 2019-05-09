@@ -262,8 +262,7 @@ Outcomes addressed in week 8:
 
 2. [Visualizing what ConvNets Learn](http://localhost:8888/notebooks/machine-learning/machine-learning/notebooks/dlp/visualizing-what-convnets-learn.ipynb)  
 
-3. [Deep Q-Learning]() *available Thursday*   
-
+3. [Deep Q-Learning](slides/deep_rl.pdf) *available Thursday*   
 
 Reading:  
 - DLP Ch. 5 
@@ -273,7 +272,7 @@ Reading:
 Use the following link https://github.com/jayurbain/artificial-intelligence/blob/master/deep_rl/reinforcement-learning-with-openai-gym.ipynb on Google Collab https://colab.research.google.com/notebooks/welcome.ipynb.   
 - Complete the [OpenAI Gym Tutorial](https://gym.openai.com/docs)  *Optional*
 - [Keras Intro](https://github.com/jayurbain/machine-learning/blob/master/notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
-- [Deep Q-Learning with OpenAI Gym]()  *Submission required - available Thursday*
+- [Deep Q-Learning with OpenAI Gym](deep_rl/dqn.ipynb)  *Submission required*   
 
 Outcomes addressed in week 9:
 - Understand the concepts of an intelligent agent and their environment.
