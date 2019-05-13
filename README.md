@@ -284,6 +284,10 @@ Outcomes addressed in week 9:
 
 #### Lecture:
 
+1. [Generative Models, Autoencoders, Generative Adversarial Networks](slides/gans.pdf)  
+
+2. [GAN coding walkthrough]()  *update coming*  
+
 <!--
 1. [Deep Learning for Computer Vision](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-3-1-convnets-history-urbain.pdf)   
 
