@@ -289,6 +289,9 @@ Outcomes addressed in week 9:
 [DCGAN MNIST](labs/generative_adversarial_network/dcgan_mnist_colab.ipynb)  
 [DCGAN CIFAR10](labs/generative_adversarial_network/dcgan_cifar_colab.ipynb)  
 
+3. [Deep Learning AI State of the Art](DLAISOTA.pdf)  
+
+4. [Final Exam Study Guide](cs4881-final-exam-studyguide.pdf)
 <!--
 1. [Deep Learning for Computer Vision](https://github.com/jayurbain/machine-learning/blob/master/slides/dli/Lecture-3-1-convnets-history-urbain.pdf)   
 
